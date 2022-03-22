@@ -68,14 +68,14 @@ http://localhost:8000/
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h1 align="center"> Overview & Result 🚧 </h1>
 
-#### ![#1589F0] Home Page
+#### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Home Page
 ![Alt text](https://raw.githubusercontent.com/qorb-tech/Qorb-eLearning-Platform/main/.assets/index.gif)
-#### ![#1589F0] Register Page
+#### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Register Page
 ![Alt text](https://raw.githubusercontent.com/qorb-tech/Qorb-eLearning-Platform/main/.assets/register.gif)
-#### ![#1589F0] Login Page
+#### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Login Page
 ![Alt text](https://raw.githubusercontent.com/qorb-tech/Qorb-eLearning-Platform/main/.assets/login.gif)
-#### ![#1589F0] Teacher Dashboard
+#### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Teacher Dashboard
 ![Alt text](https://raw.githubusercontent.com/qorb-tech/Qorb-eLearning-Platform/main/.assets/teacher_dashboard.gif)
-#### ![#1589F0] Student Dashboard
+#### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Student Dashboard
 ![Alt text](https://raw.githubusercontent.com/qorb-tech/Qorb-eLearning-Platform/main/.assets/student_dashboard.gif)
 
