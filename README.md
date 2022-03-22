@@ -8,6 +8,47 @@ technologies as Real Time Arabic Sign Language Translator, Facial Expression Rec
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h1 align="center"> Local Setup 👨‍💻 </h1>
 
+# ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Project Structure
+
+```
+├───accounts
+│   └───templates
+│       └───accounts
+│   
+├───adminDashboard
+│   └───templates
+│       └───adminDashboard
+│
+├───Data Preprocessing
+├───media
+│   ├───course_images
+│   ├───course_matrial
+│   ├───course_report
+│   ├───student_profile_images
+│   └───teacher_profile_images
+│
+├───quiz
+│   └───templates
+│       └───quiz
+│           └───partials
+├───static
+│   ├───css
+│   ├───images
+│   │   ├───faces
+│   │   └───teacher
+│   │       └───Icons
+│   ├───js
+│   └───master
+├───student
+│   ├───templates
+│   │   └───student
+│   └───templatetags
+└───teacher
+    ├───templates
+    │   └───teacher
+    └───templatetags
+```
+
 ## Docker Setup:
 
 ```
