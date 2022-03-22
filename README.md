@@ -64,3 +64,6 @@ Note: For Windows Users Replace python3 with python
 ### 9. Go Live :
 
 http://localhost:8000/
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<h1 align="center"> Overview & Result ![image](https://user-images.githubusercontent.com/55960681/159382304-07ffbf94-cad2-4941-9c28-10f1ff7841ca.png)💻 </h1>
