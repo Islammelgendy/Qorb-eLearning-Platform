@@ -66,4 +66,7 @@ Note: For Windows Users Replace python3 with python
 http://localhost:8000/
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<h1 align="center"> Overview & Result ![image](https://user-images.githubusercontent.com/55960681/159382304-07ffbf94-cad2-4941-9c28-10f1ff7841ca.png)💻 </h1>
+<h1 align="center"> Overview & Result 💻 </h1>
+![Alt text](https://raw.githubusercontent.com/qorb-tech/Qorb-eLearning-Platform/main/.assets/index.gif)
+![Alt text](https://raw.githubusercontent.com/qorb-tech/Qorb-eLearning-Platform/main/.assets/register.gif)
+![Alt text](https://raw.githubusercontent.com/qorb-tech/Qorb-eLearning-Platform/main/.assets/login.gif)
