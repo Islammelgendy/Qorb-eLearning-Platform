@@ -107,7 +107,7 @@ def login_view(request):
                     login(request, user)
                     return redirect('teacher_dashboard')
                 else:
-                    msg = 'خطأ فى الايميل او كلمة المرور'
+                    msg = 'خطأ فى اسم المستخدم او كلمة المرور'
             else:
                 msg = 'Invalid reCAPTCHA. Please try again.'
         else:
