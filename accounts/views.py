@@ -113,7 +113,7 @@ def login_view(request):
         else:
             msg = 'يرجى ادخال اسم المستخدم وكلمة المرور'
     else:
-            msg = 'يرجى اسم المستخدم وكلمة المرور'
+            msg = 'يرجى ادخال اسم المستخدم وكلمة المرور'
     return render(request, 'accounts/login.html', {'form': form, 'msg': msg})
 
 
